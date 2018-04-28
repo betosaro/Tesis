@@ -1,0 +1,70 @@
+\begin{thebibliography}{10}
+
+\bibitem{vmaeieproyman}
+V.~M. Alfaro.
+\newblock {\em Manual de usuario de la clase \texttt{eieproyecto} - {IE-0499}
+  Proyecto eléctrico}.
+\newblock Escuela de Ingeniería Eléctrica, Universidad de Costa Rica, febrero
+  2013.
+
+\bibitem{astromhagglund2006}
+K.J. {\AA}str{\"o}m and T.~H{\"a}gglund.
+\newblock {\em Advanced {PID} Control}.
+\newblock ISA - The Instrumentation, Systems, and Automation Society, Research
+  Triangle Park, NC 27709, USA, 2006.
+
+\bibitem{fear2005}
+S.~Fear.
+\newblock {\em Publication quality tables in {\LaTeX}}.
+\newblock http://www.ctan.org/tex-archive/macros/latex/contrib/booktabs/, 2005.
+
+\bibitem{Gratzer2001}
+G.~Grätzer.
+\newblock {\em More Math into LaTeX}.
+\newblock Springer, Canada, 2001.
+
+\bibitem{Krishnan2003}
+G.~Krishnan.
+\newblock Latex tutorials - a primer.
+\newblock Indian TEX Users Group, India, 2003.
+
+\bibitem{RTCR443-2010}
+MEIC.
+\newblock {Reglamento Técnico RTCR443-2010, Metrología, Unidades de Medidas,
+  Sistema Internacional (SI)}, 2010.
+\newblock Ministerio de Economía, Industria y Comercio, San José, Costa Rica.
+
+\bibitem{latexcomp}
+F.~Mittelbach, M.~Goossens, J.~Braams, D.~Carlisle, and C.~Rowley.
+\newblock {\em The {\LaTeX} Companion}.
+\newblock Addison-Wesley/Pearson Education, Inc, Boston, MA, EE.UU., 2da.
+  edition, 2004.
+
+\bibitem{Oetiker2014}
+H.; Hyna I.; Schlegl~E. Oetiker, T.;~Partl.
+\newblock The not so short introduction to latex, 2001.
+
+\bibitem{nsces}
+T.~Oetiker, H~Partl, I~Hyna, and E.~Schlegi.
+\newblock {\em La introducción no tan corta a {\LaTeX} $2{\epsilon}$}.
+\newblock http://www.ctan.org/tex-archive/info/lshort/spanish, Febrero 2010.
+
+\bibitem{StackExchange2016}
+StackExchange.
+\newblock Latex question and answer site, 2016.
+
+\bibitem{Valiente2001}
+G.~Valiente~Feruglio.
+\newblock {\em Composición de Textos Científicos con LaTeX}.
+\newblock Alfaomega, México D.F., first edition, 2001.
+
+\bibitem{Wikibooks2016}
+Wikibooks.
+\newblock Latex, 2016.
+
+\bibitem{memoir2011}
+P.~R. Wilson and L.~Madsen.
+\newblock {\em The Memoir Class for Configurable Typesetting}.
+\newblock http://www.ctan.org/pkg/memoir, 2011.
+
+\end{thebibliography}
