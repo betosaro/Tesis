@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.4.4)  29 APR 2018 13:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.4.4)  30 APR 2018 02:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2317,27 +2317,37 @@ LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
 [5]
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
 (Font)              scaled to size 10.95pt on input line 61.
-LaTeX Info: Redefining \. on input line 351.
-LaTeX Info: Redefining \% on input line 351.
+LaTeX Info: Redefining \. on input line 83.
+LaTeX Info: Redefining \% on input line 83.
  [6]
-LaTeX Info: Redefining \. on input line 363.
-LaTeX Info: Redefining \% on input line 363.
+LaTeX Info: Redefining \. on input line 134.
+LaTeX Info: Redefining \% on input line 134.
  [7]
-LaTeX Info: Redefining \. on input line 374.
-LaTeX Info: Redefining \% on input line 374.
+LaTeX Info: Redefining \. on input line 179.
+LaTeX Info: Redefining \% on input line 179.
  [8]
-LaTeX Info: Redefining \. on input line 385.
-LaTeX Info: Redefining \% on input line 385.
- [9])
+LaTeX Info: Redefining \. on input line 361.
+LaTeX Info: Redefining \% on input line 361.
+ [9]
+LaTeX Info: Redefining \. on input line 373.
+LaTeX Info: Redefining \% on input line 373.
+ [10]
+LaTeX Info: Redefining \. on input line 384.
+LaTeX Info: Redefining \% on input line 384.
+ [11]
+LaTeX Info: Redefining \. on input line 395.
+LaTeX Info: Redefining \% on input line 395.
+ [12])
 LaTeX Info: Redefining \. on input line 95.
 LaTeX Info: Redefining \% on input line 95.
- [10] (./proyecto.bbl
+ [13] [14
+
+] (./proyecto.bbl
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/sc' will be
 (Font)              scaled to size 20.74pt on input line 1.
 
 bibitemlist
-) [11
-
+) [15
 
 ]
 \tf@toc=\write6
@@ -2352,13 +2362,13 @@ LaTeX Info: Redefining \% on input line 22.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 103.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 103.
 Package rerunfilecheck Info: File `proyecto.out' has not changed.
-(rerunfilecheck)             Checksum: 3188249E050B96E156516E9F097390EB;2803.
+(rerunfilecheck)             Checksum: 2ACFBE522469257166FA12930E077AB2;2971.
  ) 
 Here is how much of TeX's memory you used:
- 51623 strings out of 493029
- 1168814 string characters out of 6136235
- 1480333 words of memory out of 5000000
- 54327 multiletter control sequences out of 15000+600000
+ 51641 strings out of 493029
+ 1169018 string characters out of 6136235
+ 1480332 words of memory out of 5000000
+ 54330 multiletter control sequences out of 15000+600000
  132952 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,12n,98p,10360b,1059s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2376,11 +2386,13 @@ rtine/LinBiolinumTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/liber
 tine/LinLibertineT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libert
 ine/LinLibertineTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libert
 ine/LinLibertineTBI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/liber
-tine/LinLibertineTI.pfb>
-Output written on proyecto.pdf (21 pages, 400687 bytes).
+tine/LinLibertineTI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr8.pfb>
+Output written on proyecto.pdf (25 pages, 424145 bytes).
 PDF statistics:
- 356 PDF objects out of 1000 (max. 8388607)
- 323 compressed objects within 4 object streams
- 80 named destinations out of 1000 (max. 500000)
- 293 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 402 PDF objects out of 1000 (max. 8388607)
+ 363 compressed objects within 4 object streams
+ 95 named destinations out of 1000 (max. 500000)
+ 309 words of extra memory for PDF output out of 10000 (max. 10000000)
 
