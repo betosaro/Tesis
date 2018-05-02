@@ -181,7 +181,44 @@ Consiste en un dispositivo que alerta por medio del sentido de la vista. (3.3.16
 
 
 
-\subsection{Panel de control y fuente de poder}
+\subsection{Dispositivos de control}
+
+
+\subsubsection{Unidad de control o panel de control de alarmas contra incendio}
+
+
+Es un dispositivo del sistema provisto de fuentes de energía primaria y secundaria, con entradas capaces de recibir señales de los dispositivos de iniciación u otros dispositivos y procesarlas para determinar que funciones requeridas en cada una de sus salidas. (3.3.92)\\
+
+El panel de control debe cumplir al menos uno o varias de las siguientes funciones: (23.3.3.1)
+
+
+\begin{enumerate}
+	
+	\item Iniciación manual de señal de alarma.
+	
+	\item Alarma contra incendio automática y señal de supervisión.
+	
+	\item Monitoreo de condiciones de falla en sistemas de supresión.
+	
+	\item Activación de los sistemas de supresión.
+	
+	\item Activación de los sistemas de seguridad.
+	
+	\item Activación de los dispositivos de notificación.
+	
+	\item Activación de sistemas de voceo de emergencia.
+	
+	\item Servicios de supervisión del departamento de seguridad.
+	
+	\item Monitoreo del departamento de seguridad.
+	
+	\item Activación de señales fuera de las instalaciones.
+	
+	\item Combinación de sistemas.
+	
+\end{enumerate}
+
+
 
 
 
@@ -260,8 +297,32 @@ Consiste en un dispositivo que alerta por medio del sentido de la vista. (3.3.16
 
 
 
-
-
+%
+%23.18.2 Power Supplies. A primary battery (dry cell) shall be
+%permitted to be used as the sole power source of a low-power
+%radio transmitter where all of the following conditions are met:
+%(1) Each transmitter shall serve only one device and shall be
+%individually identified at the receiver/fire alarm control
+%unit.
+%(2) The battery shall be capable of operating the low-power
+%radio transmitter for not less than 1 year before the bat-
+%tery depletion threshold is reached.
+%(3) A battery depletion signal shall be transmitted before the
+%battery has been depleted to a level below that required to
+%support alarm transmission after 7 additional days of non-
+%alarm operation. This signal shall be distinctive from
+%alarm, supervisory, tamper, and trouble signals; shall vis-
+%ibly identify the affected low-power radio transmitter;
+%and, when silenced, shall automatically re-sound at least
+%once every 4 hours.
+%(4) Catastrophic (open or short) battery failure shall cause a
+%trouble signal identifying the affected low-power radio
+%transmitter at its receiver/fire alarm control unit. When
+%silenced, the trouble signal shall automatically re-sound at
+%least once every 4 hours.
+%(5) Any mode of failure of a primary battery in a low-power
+%radio transmitter shall not affect any other low-power ra-
+%dio transmitter
 
 
 
@@ -355,6 +416,51 @@ Según el articulo 17.7.1.8 de la NFPA 72 los detectores de humo no se deben ins
 %short-circuit.
 %(3) Conditions that affect the intended operation of the path
 %are annunciated.
+
+
+
+
+%23.5 Performance of Initiating Device Circuits (IDCs).
+%23.5.1 The assignment of class designations to initiating device
+%circuits shall be based on their performance capabilities under
+%abnormal (fault) conditions in accordance with the require-
+%ments for Class A or Class B pathways specified in Chapter 12, as
+%well as the requirements specified in 23.5.2 and 23.5.3.
+%23.5.2 An open or ground condition shall result in the an-
+%nunciation of a trouble signal.
+%23.5.3 The circuit shall maintain alarm receipt capability dur-
+%ing the application of a single ground fault.
+%23.6* Performance of Signaling Line Circuits (SLCs).
+%23.6.1 The assignment of class designations to signaling line
+%circuits shall be based on their performance capabilities un-
+%der abnormal (fault) conditions in accordance with the re-
+%quirements for Class A, Class B, or Class X pathways specified
+%in Chapter 12 and the requirements of 23.6.2 through 23.6.5.
+%23.6.2 An open, short circuit, or ground fault shall result in
+%the annunciation of a trouble signal.
+%23.6.3 Class B pathways shall maintain alarm capability dur-
+%ing the application of a single ground fault.
+%23.6.4 Class A and Class X pathways shall maintain alarm ca-
+%pability during the application of a single ground fault, and
+%also during the combination of a single open and a single
+%ground fault.
+%23.6.5 Where digital communications are used, inability to
+%send or receive digital signals over a signaling line circuit shall
+%be indicated by a trouble signal.
+%23.7 Performance of Notification Appliance Circuits (NACs).
+%23.7.1 The assignment of class designations to notification ap-
+%pliance circuits shall be based on their performance capabilities
+%under abnormal (fault) conditions in accordance with the re-
+%quirements for Class A or Class B pathways specified in Chapter
+%12, as well as the requirements specified in 23.7.2 and 23.7.3.
+%23.7.2 An open or ground condition shall result in the an-
+%nunciation of a trouble signal.
+%23.7.3 The circuit shall maintain alarm capability during the
+%application of a single ground fault.
+
+
+
+
 
 
 

@@ -22,25 +22,26 @@
 \contentsline {subsubsection}{Notificaci\IeC {\'o}n audible}{8}{section*.9}
 \contentsline {subsubsection}{Notificaci\IeC {\'o}n t\IeC {\'a}ctil}{8}{section*.10}
 \contentsline {subsubsection}{Notificaci\IeC {\'o}n visual}{8}{section*.11}
-\contentsline {subsection}{\numberline {2.1.4}Panel de control y fuente de poder}{9}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.4}Dispositivos de control}{9}{subsection.2.1.4}
+\contentsline {subsubsection}{Unidad de control o panel de control de alarmas contra incendio}{9}{section*.12}
 \contentsline {subsection}{\numberline {2.1.5}Recomendaciones de instalaci\IeC {\'o}n seg\IeC {\'u}n NFPA 72}{9}{subsection.2.1.5}
-\contentsline {subsection}{\numberline {2.1.6}C\IeC {\'a}lculo del calibre de cable seg\IeC {\'u}n NFPA 70}{9}{subsection.2.1.6}
-\contentsline {subsection}{\numberline {2.1.7}Tipos de cableado seg\IeC {\'u}n NFPA 72}{9}{subsection.2.1.7}
-\contentsline {section}{\numberline {2.2}Sistema de alarmas contra intrusi\IeC {\'o}n}{10}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Dispositivos de detecci\IeC {\'o}n de intrusi\IeC {\'o}n}{10}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Dispositivos de notificaci\IeC {\'o}n de intrusi\IeC {\'o}n}{10}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Recomendaciones de dise\IeC {\~n}o seg\IeC {\'u}n CIEMI}{10}{subsection.2.2.3}
-\contentsline {section}{\numberline {2.3}Sistema de control de acceso}{11}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Dispositivos de control de acceso}{11}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Recomendaciones de dise\IeC {\~n}o seg\IeC {\'u}n CIEMI}{11}{subsection.2.3.2}
-\contentsline {section}{\numberline {2.4}Sistema de CCTV IP}{12}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Dispositivos de CCTV IP}{12}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Recomendaciones de dise\IeC {\~n}o seg\IeC {\'u}n TIA}{12}{subsection.2.4.2}
-\contentsline {section}{\numberline {2.5}Sistema de iluminaci\IeC {\'o}n}{13}{section.2.5}
-\contentsline {subsection}{\numberline {2.5.1}Estudio de iluminaci\IeC {\'o}n}{13}{subsection.2.5.1}
-\contentsline {subsection}{\numberline {2.5.2}Recomendaciones de niveles de iluminaci\IeC {\'o}n seg\IeC {\'u}n INTECO}{13}{subsection.2.5.2}
-\contentsline {subsection}{\numberline {2.5.3}Tipos de iluminaci\IeC {\'o}n y luminarias}{13}{subsection.2.5.3}
-\contentsline {subsection}{\numberline {2.5.4}Tipos de aislamiento de cable seg\IeC {\'u}n NFPA 70}{13}{subsection.2.5.4}
-\contentsline {subsection}{\numberline {2.5.5}C\IeC {\'a}lculo del calibre de cable en circuitos ramales seg\IeC {\'u}n NFPA 70}{13}{subsection.2.5.5}
-\contentsline {subsection}{\numberline {2.5.6}C\IeC {\'a}lculo protecciones en circuitos ramales seg\IeC {\'u}n NFPA 70}{13}{subsection.2.5.6}
-\contentsline {chapter}{Bibliograf\'{\i }a}{15}{section*.13}
+\contentsline {subsection}{\numberline {2.1.6}C\IeC {\'a}lculo del calibre de cable seg\IeC {\'u}n NFPA 70}{10}{subsection.2.1.6}
+\contentsline {subsection}{\numberline {2.1.7}Tipos de cableado seg\IeC {\'u}n NFPA 72}{10}{subsection.2.1.7}
+\contentsline {section}{\numberline {2.2}Sistema de alarmas contra intrusi\IeC {\'o}n}{11}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Dispositivos de detecci\IeC {\'o}n de intrusi\IeC {\'o}n}{11}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Dispositivos de notificaci\IeC {\'o}n de intrusi\IeC {\'o}n}{11}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Recomendaciones de dise\IeC {\~n}o seg\IeC {\'u}n CIEMI}{11}{subsection.2.2.3}
+\contentsline {section}{\numberline {2.3}Sistema de control de acceso}{12}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Dispositivos de control de acceso}{12}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Recomendaciones de dise\IeC {\~n}o seg\IeC {\'u}n CIEMI}{12}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Sistema de CCTV IP}{13}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Dispositivos de CCTV IP}{13}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Recomendaciones de dise\IeC {\~n}o seg\IeC {\'u}n TIA}{13}{subsection.2.4.2}
+\contentsline {section}{\numberline {2.5}Sistema de iluminaci\IeC {\'o}n}{14}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Estudio de iluminaci\IeC {\'o}n}{14}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Recomendaciones de niveles de iluminaci\IeC {\'o}n seg\IeC {\'u}n INTECO}{14}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}Tipos de iluminaci\IeC {\'o}n y luminarias}{14}{subsection.2.5.3}
+\contentsline {subsection}{\numberline {2.5.4}Tipos de aislamiento de cable seg\IeC {\'u}n NFPA 70}{14}{subsection.2.5.4}
+\contentsline {subsection}{\numberline {2.5.5}C\IeC {\'a}lculo del calibre de cable en circuitos ramales seg\IeC {\'u}n NFPA 70}{14}{subsection.2.5.5}
+\contentsline {subsection}{\numberline {2.5.6}C\IeC {\'a}lculo protecciones en circuitos ramales seg\IeC {\'u}n NFPA 70}{14}{subsection.2.5.6}
+\contentsline {chapter}{Bibliograf\'{\i }a}{15}{section*.14}
