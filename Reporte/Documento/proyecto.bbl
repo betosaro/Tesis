@@ -5,4 +5,21 @@ Benemérito~Cuerpo de~Bomberos~de Costa~Rica.
 \newblock {\em Manual de disposiciones técnicas generales sobre seguridad
   humana y protección contra incendios}, 2013.
 
+\bibitem{NFPA72}
+NFPA.
+\newblock {\em NFPA 72 National Fire Alarm and Signaling Code}, 2010.
+
+\bibitem{Monitoreo}
+Tyco.
+\newblock {\em Simplex 4090-9121 Security Monitor IAM (Individual Addressable
+  Module)}, 2011.
+
+\bibitem{MAislamiento}
+Tyco.
+\newblock {\em 4090-9116 AddressableIDNet Communications Isolator}, 2014.
+
+\bibitem{Rele}
+Tyco.
+\newblock {\em IDNet Communicating Devices Model 4090-9002 Relay IAM}, 2014.
+
 \end{thebibliography}
