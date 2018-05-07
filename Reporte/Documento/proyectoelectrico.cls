@@ -59,6 +59,7 @@
 \RequirePackage{tikz}
 \RequirePackage{pgfplots}
 \RequirePackage[american]{circuitikz}
+\RequirePackage{pdfpages}
 
 % Estilo
 \RequirePackage{siunitx}
@@ -72,6 +73,7 @@
 
 % Bibliografía
 \RequirePackage{cite}
+\RequirePackage{url}
 %\bibliographystyle{apalike_es}
 
 % Estilo del encabezado y pie de página

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.4.4)  2 MAY 2018 01:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.4.4)  7 MAY 2018 02:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1423,52 +1423,88 @@ File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
 \pgf@circ@res@temp=\dimen328
 \pgfstartlinewidth=\dimen329
 ))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2015/09/18 v0.5d Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count288
+\calc@Bcount=\count289
+\calc@Adimen=\dimen330
+\calc@Bdimen=\dimen331
+\calc@Askip=\skip263
+\calc@Bskip=\skip264
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count290
+\calc@Cskip=\skip265
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+))
+\AM@pagewidth=\dimen332
+\AM@pageheight=\dimen333
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2015/09/18 v0.5d Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box58
+\AM@toc@title=\toks54
+\c@AM@survey=\count291
+\AM@templatesizebox=\box59
+)
 (/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
 Package: siunitx 2016/03/01 v2.6q A comprehensive (SI) units package
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2016/01/19 v6377 LaTeX2e option processing using LaTeX3 keys
 )
-\l__siunitx_tmp_box=\box58
-\l__siunitx_tmp_dim=\dimen330
-\l__siunitx_tmp_int=\count288
-\l__siunitx_number_mantissa_length_int=\count289
-\l__siunitx_number_uncert_length_int=\count290
-\l__siunitx_round_int=\count291
-\l__siunitx_process_decimal_int=\count292
-\l__siunitx_process_uncertainty_int=\count293
-\l__siunitx_process_fixed_int=\count294
-\l__siunitx_process_integer_min_int=\count295
-\l__siunitx_process_precision_int=\count296
-\l__siunitx_group_min_int=\count297
-\l__siunitx_angle_marker_box=\box59
-\l__siunitx_angle_unit_box=\box60
-\l__siunitx_angle_marker_dim=\dimen331
-\l__siunitx_angle_unit_dim=\dimen332
-\l__siunitx_unit_int=\count298
-\l__siunitx_unit_denominator_int=\count299
-\l__siunitx_unit_numerator_int=\count300
-\l__siunitx_unit_prefix_int=\count301
-\l__siunitx_unit_prefix_base_int=\count302
-\l__siunitx_unit_prefix_gram_int=\count303
-\l__siunitx_number_product_int=\count304
-\c__siunitx_one_fill_skip=\skip263
-\l__siunitx_table_unit_align_skip=\skip264
-\l__siunitx_table_exponent_dim=\dimen333
-\l__siunitx_table_integer_dim=\dimen334
-\l__siunitx_table_mantissa_dim=\dimen335
-\l__siunitx_table_marker_dim=\dimen336
-\l__siunitx_table_result_dim=\dimen337
-\l__siunitx_table_uncert_dim=\dimen338
-\l__siunitx_table_fill_pre_dim=\dimen339
-\l__siunitx_table_fill_post_dim=\dimen340
-\l__siunitx_table_fill_mid_dim=\dimen341
-\l__siunitx_table_pre_box=\box61
-\l__siunitx_table_post_box=\box62
-\l__siunitx_table_mantissa_box=\box63
-\l__siunitx_table_result_box=\box64
-\l__siunitx_table_number_align_skip=\skip265
-\l__siunitx_table_text_align_skip=\skip266
+\l__siunitx_tmp_box=\box60
+\l__siunitx_tmp_dim=\dimen334
+\l__siunitx_tmp_int=\count292
+\l__siunitx_number_mantissa_length_int=\count293
+\l__siunitx_number_uncert_length_int=\count294
+\l__siunitx_round_int=\count295
+\l__siunitx_process_decimal_int=\count296
+\l__siunitx_process_uncertainty_int=\count297
+\l__siunitx_process_fixed_int=\count298
+\l__siunitx_process_integer_min_int=\count299
+\l__siunitx_process_precision_int=\count300
+\l__siunitx_group_min_int=\count301
+\l__siunitx_angle_marker_box=\box61
+\l__siunitx_angle_unit_box=\box62
+\l__siunitx_angle_marker_dim=\dimen335
+\l__siunitx_angle_unit_dim=\dimen336
+\l__siunitx_unit_int=\count302
+\l__siunitx_unit_denominator_int=\count303
+\l__siunitx_unit_numerator_int=\count304
+\l__siunitx_unit_prefix_int=\count305
+\l__siunitx_unit_prefix_base_int=\count306
+\l__siunitx_unit_prefix_gram_int=\count307
+\l__siunitx_number_product_int=\count308
+\c__siunitx_one_fill_skip=\skip266
+\l__siunitx_table_unit_align_skip=\skip267
+\l__siunitx_table_exponent_dim=\dimen337
+\l__siunitx_table_integer_dim=\dimen338
+\l__siunitx_table_mantissa_dim=\dimen339
+\l__siunitx_table_marker_dim=\dimen340
+\l__siunitx_table_result_dim=\dimen341
+\l__siunitx_table_uncert_dim=\dimen342
+\l__siunitx_table_fill_pre_dim=\dimen343
+\l__siunitx_table_fill_post_dim=\dimen344
+\l__siunitx_table_fill_mid_dim=\dimen345
+\l__siunitx_table_pre_box=\box63
+\l__siunitx_table_post_box=\box64
+\l__siunitx_table_mantissa_box=\box65
+\l__siunitx_table_result_box=\box66
+\l__siunitx_table_number_align_skip=\skip268
+\l__siunitx_table_text_align_skip=\skip269
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -1635,7 +1671,7 @@ Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
 Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
 Package: xcolor-patch 2011/01/30 xcolor patch
 Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
-Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
@@ -1645,16 +1681,16 @@ Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen342
-\Hy@linkcounter=\count305
-\Hy@pagecounter=\count306
+\@linkdim=\dimen346
+\Hy@linkcounter=\count309
+\Hy@pagecounter=\count310
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count307
+\Hy@SavedSpaceFactor=\count311
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -1667,17 +1703,17 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count308
+\c@Hy@tempcnt=\count312
 
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen343
-\Fld@menulength=\count309
-\Field@Width=\dimen344
-\Fld@charsize=\dimen345
+\XeTeXLinkMargin=\dimen347
+\Fld@menulength=\count313
+\Field@Width=\dimen348
+\Fld@charsize=\dimen349
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -1687,64 +1723,62 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count310
-\c@Item=\count311
-\c@Hfootnote=\count312
+\Hy@abspage=\count314
+\c@Item=\count315
+\c@Hfootnote=\count316
 )
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memhfixc.sty
 Package: memhfixc 2013/05/30 v1.17 nameref/hyperref package fixes for memoir cl
 ass
-\c@memhycontfloat=\count313
-\c@Hpagenote=\count314
+\c@memhycontfloat=\count317
+\c@Hpagenote=\count318
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count315
-\c@bookmark@seq@number=\count316
+\Fld@listcount=\count319
+\c@bookmark@seq@number=\count320
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip267
+\Hy@SectionHShift=\skip270
 )
 (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count317
-\float@exts=\toks54
-\float@box=\box65
-\@float@everytoks=\toks55
-\@floatcapt=\box66
+\c@float@type=\count321
+\float@exts=\toks55
+\float@box=\box67
+\@float@everytoks=\toks56
+\@floatcapt=\box68
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
-\c@tracingmulticols=\count318
-\mult@box=\box67
-\multicol@leftmargin=\dimen346
-\c@unbalance=\count319
-\c@collectmore=\count320
-\doublecol@number=\count321
-\multicoltolerance=\count322
-\multicolpretolerance=\count323
-\full@width=\dimen347
-\page@free=\dimen348
-\premulticols=\dimen349
-\postmulticols=\dimen350
-\multicolsep=\skip268
-\multicolbaselineskip=\skip269
-\partial@page=\box68
-\last@line=\box69
-\maxbalancingoverflow=\dimen351
-\mult@rightbox=\box70
-\mult@grightbox=\box71
-\mult@gfirstbox=\box72
-\mult@firstbox=\box73
-\@tempa=\box74
-\@tempa=\box75
+\c@tracingmulticols=\count322
+\mult@box=\box69
+\multicol@leftmargin=\dimen350
+\c@unbalance=\count323
+\c@collectmore=\count324
+\doublecol@number=\count325
+\multicoltolerance=\count326
+\multicolpretolerance=\count327
+\full@width=\dimen351
+\page@free=\dimen352
+\premulticols=\dimen353
+\postmulticols=\dimen354
+\multicolsep=\skip271
+\multicolbaselineskip=\skip272
+\partial@page=\box70
+\last@line=\box71
+\maxbalancingoverflow=\dimen355
+\mult@rightbox=\box72
+\mult@grightbox=\box73
+\mult@gfirstbox=\box74
+\mult@firstbox=\box75
 \@tempa=\box76
 \@tempa=\box77
 \@tempa=\box78
@@ -1760,36 +1794,34 @@ Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
 \@tempa=\box88
 \@tempa=\box89
 \@tempa=\box90
-\c@columnbadness=\count324
-\c@finalcolumnbadness=\count325
-\last@try=\dimen352
-\multicolovershoot=\dimen353
-\multicolundershoot=\dimen354
-\mult@nat@firstbox=\box91
-\colbreak@box=\box92
-\mc@col@check@num=\count326
+\@tempa=\box91
+\@tempa=\box92
+\c@columnbadness=\count328
+\c@finalcolumnbadness=\count329
+\last@try=\dimen356
+\multicolovershoot=\dimen357
+\multicolundershoot=\dimen358
+\mult@nat@firstbox=\box93
+\colbreak@box=\box94
+\mc@col@check@num=\count330
 )
 (/usr/share/texlive/texmf-dist/tex/latex/sidecap/sidecap.sty
 Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-\SC@BOXWD=\dimen355
-\SC@CAPWD=\dimen356
-\SC@tempdima=\dimen357
-\SC@tempdimb=\dimen358
-\c@SC@C=\count327
-\SC@BOX=\box93
+\SC@BOXWD=\dimen359
+\SC@CAPWD=\dimen360
+\SC@tempdima=\dimen361
+\SC@tempdimb=\dimen362
+\c@SC@C=\count331
+\SC@BOX=\box95
 )
 (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\enitkv@toks@=\toks56
-\labelindent=\skip270
-\enit@outerparindent=\dimen359
-\enit@toks=\toks57
-\enit@inbox=\box94
-\enitdp@description=\count328
+\enitkv@toks@=\toks57
+\labelindent=\skip273
+\enit@outerparindent=\dimen363
+\enit@toks=\toks58
+\enit@inbox=\box96
+\enitdp@description=\count332
 )
 (/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
@@ -1819,33 +1851,33 @@ Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 .................................................
 . LaTeX info: "xparse/define-environment"
 . 
-. Defining environment 'resumen' with sig. ' m ' on line 266.
+. Defining environment 'resumen' with sig. ' m ' on line 268.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-environment"
 . 
-. Defining environment 'theabstract' with sig. ' m m ' on line 303.
+. Defining environment 'theabstract' with sig. ' m m ' on line 305.
 .................................................
 ) (./config/paquetes.tex
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count329
-\lst@gtempboxa=\box95
-\lst@token=\toks58
-\lst@length=\count330
-\lst@currlwidth=\dimen360
-\lst@column=\count331
-\lst@pos=\count332
-\lst@lostspace=\dimen361
-\lst@width=\dimen362
-\lst@newlines=\count333
-\lst@lineno=\count334
-\lst@maxwidth=\dimen363
+\lst@mode=\count333
+\lst@gtempboxa=\box97
+\lst@token=\toks59
+\lst@length=\count334
+\lst@currlwidth=\dimen364
+\lst@column=\count335
+\lst@pos=\count336
+\lst@lostspace=\dimen365
+\lst@width=\dimen366
+\lst@newlines=\count337
+\lst@lineno=\count338
+\lst@maxwidth=\dimen367
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count335
-\lst@skipnumbers=\count336
-\lst@framebox=\box96
+\c@lstnumber=\count339
+\lst@skipnumbers=\count340
+\lst@framebox=\box98
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2015/06/04 1.6 listings configuration
@@ -1857,7 +1889,7 @@ Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
 )
 (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count337
+\c@lips@count=\count341
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/libertine/libertine.sty
 Package: libertine 2014/11/25 (Bob Tennent) Supports Libertine and Biolinum fon
@@ -2089,17 +2121,17 @@ LaTeX Info: Redefining \% on input line 48.
 ABD: EveryShipout initializing macros
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count338
-\scratchdimen=\dimen364
-\scratchbox=\box97
-\nofMPsegments=\count339
-\nofMParguments=\count340
-\everyMPshowfont=\toks59
-\MPscratchCnt=\count341
-\MPscratchDim=\dimen365
-\MPnumerator=\count342
-\makeMPintoPDFobject=\count343
-\everyMPtoPDFconversion=\toks60
+\scratchcounter=\count342
+\scratchdimen=\dimen368
+\scratchbox=\box99
+\nofMPsegments=\count343
+\nofMParguments=\count344
+\everyMPshowfont=\toks60
+\MPscratchCnt=\count345
+\MPscratchDim=\dimen369
+\MPnumerator=\count346
+\makeMPintoPDFobject=\count347
+\everyMPtoPDFconversion=\toks61
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -2129,7 +2161,15 @@ ick labels; missing features). Consider writing \pgfplotsset{compat=1.13} into
 your preamble.
  on input line 48.
 
+\AtBeginShipoutBox=\box100
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
 
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+)
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-bas
 ic-dictionary/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
@@ -2137,7 +2177,6 @@ Dictionary: translator-basic-dictionary, Language: English
 (/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 File: siunitx-abbreviations.cfg 2016/03/01 v2.6q siunitx: Abbreviated units
 )
-\AtBeginShipoutBox=\box98
 Package hyperref Info: Link coloring ON on input line 48.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -2146,7 +2185,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count344
+\c@section@level=\count348
 )
 Redoing nameref's sectioning
 Redoing nameref's label
@@ -2168,25 +2207,25 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 126.
 )
-\CenteringLeftskip=\skip271
-\RaggedLeftLeftskip=\skip272
-\RaggedRightLeftskip=\skip273
-\CenteringRightskip=\skip274
-\RaggedLeftRightskip=\skip275
-\RaggedRightRightskip=\skip276
-\CenteringParfillskip=\skip277
-\RaggedLeftParfillskip=\skip278
-\RaggedRightParfillskip=\skip279
-\JustifyingParfillskip=\skip280
-\CenteringParindent=\skip281
-\RaggedLeftParindent=\skip282
-\RaggedRightParindent=\skip283
-\JustifyingParindent=\skip284
+\CenteringLeftskip=\skip274
+\RaggedLeftLeftskip=\skip275
+\RaggedRightLeftskip=\skip276
+\CenteringRightskip=\skip277
+\RaggedLeftRightskip=\skip278
+\RaggedRightRightskip=\skip279
+\CenteringParfillskip=\skip280
+\RaggedLeftParfillskip=\skip281
+\RaggedRightParfillskip=\skip282
+\JustifyingParfillskip=\skip283
+\CenteringParindent=\skip284
+\RaggedLeftParindent=\skip285
+\RaggedRightParindent=\skip286
+\JustifyingParindent=\skip287
 )
-\c@lstlisting=\count345
-\c@mv@tabular=\count346
-\c@mv@boldtabular=\count347
-\c__siunitx_mathsf_int=\count348
+\c@lstlisting=\count349
+\c@mv@tabular=\count350
+\c@mv@boldtabular=\count351
+\c__siunitx_mathsf_int=\count352
 LaTeX Font Info:    Try loading font information for U+msa on input line 48.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -2197,7 +2236,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 48.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-\c__siunitx_mathtt_int=\count349
+\c__siunitx_mathtt_int=\count353
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 14.4pt on input line 54.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
@@ -2301,71 +2340,442 @@ LaTeX Info: Redefining \% on input line 2.
  [3] [4
 
 ]
-
-LaTeX Warning: Citation `CIEMI' on page 5 undefined on input line 11.
-
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 18.
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
+(Font)              scaled to size 10.95pt on input line 20.
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
 
 LaTeX Font Info:    Try loading font information for TS1+LinuxLibertineT-TLF on
- input line 69.
+ input line 41.
 (/usr/share/texlive/texmf-dist/tex/latex/libertine/TS1LinuxLibertineT-TLF.fd
 File: TS1LinuxLibertineT-TLF.fd 2012/11/26 (autoinst) Font definitions for TS1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 69.
+(Font)              scaled to size 10.95pt on input line 41.
+
+[5]
 LaTeX Info: Redefining \. on input line 120.
 LaTeX Info: Redefining \% on input line 120.
+ [6]
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
 
-[6]
-LaTeX Info: Redefining \. on input line 154.
-LaTeX Info: Redefining \% on input line 154.
- [7]
-LaTeX Info: Redefining \. on input line 198.
-LaTeX Info: Redefining \% on input line 198.
+ []
+
+LaTeX Info: Redefining \. on input line 164.
+LaTeX Info: Redefining \% on input line 164.
+[7]
+LaTeX Info: Redefining \. on input line 164.
+LaTeX Info: Redefining \% on input line 164.
  [8]
-Underfull \hbox (badness 10000) in paragraph at lines 243--244
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
 
  []
 
-LaTeX Info: Redefining \. on input line 244.
-LaTeX Info: Redefining \% on input line 244.
+LaTeX Info: Redefining \. on input line 234.
+LaTeX Info: Redefining \% on input line 234.
 [9]
-LaTeX Info: Redefining \. on input line 398.
-LaTeX Info: Redefining \% on input line 398.
+LaTeX Info: Redefining \. on input line 268.
+LaTeX Info: Redefining \% on input line 268.
  [10]
-Underfull \hbox (badness 10000) in paragraph at lines 400--401
+LaTeX Info: Redefining \. on input line 312.
+LaTeX Info: Redefining \% on input line 312.
+ [11]
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
 
  []
 
-LaTeX Info: Redefining \. on input line 457.
-LaTeX Info: Redefining \% on input line 457.
-[11]
-LaTeX Info: Redefining \. on input line 519.
-LaTeX Info: Redefining \% on input line 519.
- [12]
-LaTeX Info: Redefining \. on input line 535.
-LaTeX Info: Redefining \% on input line 535.
+LaTeX Info: Redefining \. on input line 358.
+LaTeX Info: Redefining \% on input line 358.
+[12]
+LaTeX Info: Redefining \. on input line 512.
+LaTeX Info: Redefining \% on input line 512.
  [13]
-LaTeX Info: Redefining \. on input line 550.
-LaTeX Info: Redefining \% on input line 550.
- [14]
-LaTeX Info: Redefining \. on input line 565.
-LaTeX Info: Redefining \% on input line 565.
- [15])
+Underfull \hbox (badness 10000) in paragraph at lines 514--515
+
+ []
+
+LaTeX Info: Redefining \. on input line 571.
+LaTeX Info: Redefining \% on input line 571.
+[14]
+LaTeX Info: Redefining \. on input line 633.
+LaTeX Info: Redefining \% on input line 633.
+ [15]
+LaTeX Info: Redefining \. on input line 649.
+LaTeX Info: Redefining \% on input line 649.
+ [16]
+LaTeX Info: Redefining \. on input line 664.
+LaTeX Info: Redefining \% on input line 664.
+ [17]) (./apendices/A.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [18]
+<./imagenes/Inteco.pdf, id=463, 614.295pt x 794.97pt>
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf>
+Package pdftex.def Info: ./imagenes/Inteco.pdf used on input line 5.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+ <use ./imagenes/Inteco.pdf>
+Package pdftex.def Info: ./imagenes/Inteco.pdf used on input line 5.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+<./imagenes/Inteco.pdf, id=466, page=7, 614.295pt x 794.97pt>
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 7>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page7 used on input line 5.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+ <use ./imagenes/Inteco.pdf, page 7>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page7 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+[19
+
+]
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+ <use ./imagenes/Inteco.pdf, page 7>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page7 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+ <use ./imagenes/Inteco.pdf, page 7>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page7 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 7>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page7 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [20 <./imagenes/Inteco.pdf>]
+<./imagenes/Inteco.pdf, id=485, page=8, 614.295pt x 794.97pt>
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 8>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page8 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+ <use ./imagenes/Inteco.pdf, page 8>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page8 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 8>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page8 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [21 <./imagenes/Inteco.pdf>]
+<./imagenes/Inteco.pdf, id=491, page=9, 614.295pt x 794.97pt>
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 9>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page9 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+ <use ./imagenes/Inteco.pdf, page 9>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page9 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 9>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page9 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [22 <./imagenes/Inteco.pdf>]
+<./imagenes/Inteco.pdf, id=496, page=10, 614.295pt x 794.97pt>
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 10>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page10 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+ <use ./imagenes/Inteco.pdf, page 10>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page10 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 10>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page10 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [23 <./imagenes/Inteco.pdf>]
+<./imagenes/Inteco.pdf, id=501, page=11, 614.295pt x 794.97pt>
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 11>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page11 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+ <use ./imagenes/Inteco.pdf, page 11>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page11 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 11>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page11 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [24 <./imagenes/Inteco.pdf>]
+<./imagenes/Inteco.pdf, id=506, page=12, 614.295pt x 794.97pt>
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 12>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page12 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+ <use ./imagenes/Inteco.pdf, page 12>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page12 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 12>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page12 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [25 <./imagenes/Inteco.pdf>]
+<./imagenes/Inteco.pdf, id=511, page=13, 614.295pt x 794.97pt>
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 13>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page13 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+ <use ./imagenes/Inteco.pdf, page 13>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page13 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 13>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page13 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [26 <./imagenes/Inteco.pdf>]
+<./imagenes/Inteco.pdf, id=516, page=14, 614.295pt x 794.97pt>
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 14>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page14 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+ <use ./imagenes/Inteco.pdf, page 14>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page14 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 14>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page14 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [27 <./imagenes/Inteco.pdf>]
+<./imagenes/Inteco.pdf, id=522, page=15, 614.295pt x 794.97pt>
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 15>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page15 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+ <use ./imagenes/Inteco.pdf, page 15>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page15 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 15>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page15 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [28 <./imagenes/Inteco.pdf>]
+<./imagenes/Inteco.pdf, id=527, page=16, 614.295pt x 794.97pt>
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 16>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page16 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+ <use ./imagenes/Inteco.pdf, page 16>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page16 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 16>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page16 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [29 <./imagenes/Inteco.pdf>]
+<./imagenes/Inteco.pdf, id=532, page=17, 614.295pt x 794.97pt>
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 17>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page17 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+ <use ./imagenes/Inteco.pdf, page 17>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page17 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 17>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page17 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [30 <./imagenes/Inteco.pdf>]
+<./imagenes/Inteco.pdf, id=537, page=18, 614.295pt x 794.97pt>
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 18>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page18 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+ <use ./imagenes/Inteco.pdf, page 18>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page18 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 18>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page18 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [31 <./imagenes/Inteco.pdf>]
+<./imagenes/Inteco.pdf, id=543, page=19, 614.295pt x 794.97pt>
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 19>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page19 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+ <use ./imagenes/Inteco.pdf, page 19>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page19 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 19>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page19 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [32 <./imagenes/Inteco.pdf>]
+<./imagenes/Inteco.pdf, id=548, page=20, 614.295pt x 794.97pt>
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 20>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page20 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+ <use ./imagenes/Inteco.pdf, page 20>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page20 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 20>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page20 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [33 <./imagenes/Inteco.pdf>]
+<./imagenes/Inteco.pdf, id=554, page=21, 614.295pt x 794.97pt>
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 21>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page21 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+ <use ./imagenes/Inteco.pdf, page 21>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page21 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 21>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page21 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [34 <./imagenes/Inteco.pdf>]
+<./imagenes/Inteco.pdf, id=559, page=22, 614.295pt x 794.97pt>
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 22>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page22 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+ <use ./imagenes/Inteco.pdf, page 22>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page22 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 22>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page22 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [35 <./imagenes/Inteco.pdf>]
+<./imagenes/Inteco.pdf, id=564, page=23, 614.295pt x 794.97pt>
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 23>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page23 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+ <use ./imagenes/Inteco.pdf, page 23>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page23 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 23>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page23 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [36 <./imagenes/Inteco.pdf>]
+<./imagenes/Inteco.pdf, id=569, page=24, 614.295pt x 794.97pt>
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 24>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page24 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+ <use ./imagenes/Inteco.pdf, page 24>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page24 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 24>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page24 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [37 <./imagenes/Inteco.pdf>]
+<./imagenes/Inteco.pdf, id=574, page=25, 614.295pt x 794.97pt>
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 25>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page25 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+ <use ./imagenes/Inteco.pdf, page 25>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page25 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ./imagenes/Inteco.pdf Graphic file (type pdf)
+
+<use ./imagenes/Inteco.pdf, page 25>
+Package pdftex.def Info: ./imagenes/Inteco.pdf, page25 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [38 <./imagenes/Inteco.pdf>])
+(./apendices/B.tex <./imagenes/cable1.png, id=579, 847.165pt x 741.77126pt>
+File: ./imagenes/cable1.png Graphic file (type png)
+
+<use ./imagenes/cable1.png>
+Package pdftex.def Info: ./imagenes/cable1.png used on input line 4.
+(pdftex.def)             Requested size: 426.0pt x 373.00128pt.
+
+<./imagenes/cable2.png, id=580, 850.17625pt x 907.39pt>
+File: ./imagenes/cable2.png Graphic file (type png)
+
+<use ./imagenes/cable2.png>
+Package pdftex.def Info: ./imagenes/cable2.png used on input line 6.
+(pdftex.def)             Requested size: 426.0pt x 454.67693pt.
+)
+Overfull \hbox (17.0pt too wide) in paragraph at lines 6--94
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--94
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39
+
+ <./imagenes/cable1.png>]
 LaTeX Info: Redefining \. on input line 95.
 LaTeX Info: Redefining \% on input line 95.
- [16] (./proyecto.bbl
+ [40 <./imagenes/cable2.png>] (./proyecto.bbl
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/sc' will be
 (Font)              scaled to size 20.74pt on input line 1.
 
 bibitemlist
-) [17
+) [41
 
 
 ]
@@ -2381,20 +2791,16 @@ LaTeX Info: Redefining \% on input line 22.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 103.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 103.
 Package rerunfilecheck Info: File `proyecto.out' has not changed.
-(rerunfilecheck)             Checksum: 250C5E77C54CDCBF9EFF44BD63A6C7A0;3592.
-
-
-LaTeX Warning: There were undefined references.
-
+(rerunfilecheck)             Checksum: B9AE0BB24DF7B6432AE85F485281CFAB;3473.
  ) 
 Here is how much of TeX's memory you used:
- 51701 strings out of 493029
- 1169680 string characters out of 6136235
- 1480451 words of memory out of 5000000
- 54344 multiletter control sequences out of 15000+600000
+ 52501 strings out of 493029
+ 1183319 string characters out of 6136235
+ 1493847 words of memory out of 5000000
+ 55074 multiletter control sequences out of 15000+600000
  132952 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,12n,98p,10360b,1059s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,18n,98p,10360b,1070s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/us
 r/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/usr/shar
 e/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_jtta5h.enc}{/usr/share/texl
@@ -2412,10 +2818,10 @@ ine/LinLibertineTBI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/liber
 tine/LinLibertineTI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr8.pfb>
-Output written on proyecto.pdf (27 pages, 434576 bytes).
+Output written on proyecto.pdf (51 pages, 665013 bytes).
 PDF statistics:
- 512 PDF objects out of 1000 (max. 8388607)
- 470 compressed objects within 5 object streams
- 141 named destinations out of 1000 (max. 500000)
- 389 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 674 PDF objects out of 1000 (max. 8388607)
+ 583 compressed objects within 6 object streams
+ 174 named destinations out of 1000 (max. 500000)
+ 501 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -28,75 +28,77 @@ You're missing a field name---line 38 of file contenido/bibliografia.bib.bib
  :     %author = "Wikibooks",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 44 of file contenido/bibliografia.bib.bib
- :     
- :     %author = "StackExchange",
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 51 of file contenido/bibliografia.bib.bib
+You're missing a field name---line 46 of file contenido/bibliografia.bib.bib
  :   
  :   %author = {K .J. {\AA}str{\"o}m and T. H{\"a}gglund},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 60 of file contenido/bibliografia.bib.bib
+You're missing a field name---line 55 of file contenido/bibliografia.bib.bib
  :   
  :   %title = {Advanced {PID} Control},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 70 of file contenido/bibliografia.bib.bib
+You're missing a field name---line 65 of file contenido/bibliografia.bib.bib
  :   
  :   %title = {Manual de usuario de la clase \texttt{eieproyecto} - {IE-0499} Proyecto eléctrico},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 81 of file contenido/bibliografia.bib.bib
+You're missing a field name---line 76 of file contenido/bibliografia.bib.bib
  :   
  :   %title = {{Reglamento Técnico RTCR443-2010, Metrología, Unidades de Medidas,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 93 of file contenido/bibliografia.bib.bib
+You're missing a field name---line 88 of file contenido/bibliografia.bib.bib
  :   
  :   %title = {The {\LaTeX} Companion},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You've used 5 entries,
+I was expecting a `,' or a `}'---line 103 of file contenido/bibliografia.bib.bib
+ :     
+ :     note = {Accedido 7-05-2018}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "CIEMI" isn't style-file defined
+--line 115 of file contenido/bibliografia.bib.bib
+You've used 10 entries,
             2118 wiz_defined-function locations,
-            520 strings with 4510 characters,
-and the built_in function-call counts, 960 in all, are:
-= -- 85
-> -- 35
+            549 strings with 5101 characters,
+and the built_in function-call counts, 1969 in all, are:
+= -- 180
+> -- 70
 < -- 0
-+ -- 15
-- -- 10
-* -- 42
-:= -- 174
-add.period$ -- 10
-call.type$ -- 5
-change.case$ -- 15
++ -- 30
+- -- 20
+* -- 76
+:= -- 348
+add.period$ -- 24
+call.type$ -- 10
+change.case$ -- 33
 chr.to.int$ -- 0
-cite$ -- 5
-duplicate$ -- 45
-empty$ -- 91
-format.name$ -- 10
-if$ -- 191
+cite$ -- 10
+duplicate$ -- 84
+empty$ -- 193
+format.name$ -- 20
+if$ -- 406
 int.to.chr$ -- 0
-int.to.str$ -- 5
+int.to.str$ -- 10
 missing$ -- 0
-newline$ -- 23
-num.names$ -- 10
-pop$ -- 25
+newline$ -- 47
+num.names$ -- 20
+pop$ -- 60
 preamble$ -- 1
-purify$ -- 15
+purify$ -- 30
 quote$ -- 0
-skip$ -- 35
+skip$ -- 68
 stack$ -- 0
-substring$ -- 25
-swap$ -- 10
+substring$ -- 50
+swap$ -- 17
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 20
+type$ -- 40
 warning$ -- 0
-while$ -- 10
-width$ -- 6
-write$ -- 42
+while$ -- 20
+width$ -- 12
+write$ -- 90
 (There were 11 error messages)

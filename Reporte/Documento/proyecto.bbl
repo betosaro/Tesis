@@ -1,13 +1,39 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{Bomberos}
 Benemérito~Cuerpo de~Bomberos~de Costa~Rica.
 \newblock {\em Manual de disposiciones técnicas generales sobre seguridad
   humana y protección contra incendios}, 2013.
 
+\bibitem{DIALux}
+DIAL.
+\newblock Lighting design software dialux.
+\newblock https://www.dial.de/en/dialux/, 2018.
+
+\bibitem{Inteco}
+Inteco.
+\newblock {\em Niveles y condiciones de iluminación que deben tener los
+  centros de trabajo}, 2000.
+
+\bibitem{CIEMI}
+MEIC.
+\newblock Rtcr 458:2011 reglamento de oficialización del código eléctrico de
+  costa rica para la seguridad de la vida y de la propiedad, 2012.
+\newblock Ministerio de Economía, Industria y Comercio, San José, Costa Rica.
+
+\bibitem{NFPA70}
+NFPA.
+\newblock {\em NFPA 70 National Electric Code}, 2008.
+
 \bibitem{NFPA72}
 NFPA.
 \newblock {\em NFPA 72 National Fire Alarm and Signaling Code}, 2010.
+
+\bibitem{Syl}
+Sylvania.
+\newblock Tecnologías.
+\newblock http://www.sylvania-americas.com/es/sylvania/tecnologias, 2016.
+\newblock Accedido 7-05-2018.
 
 \bibitem{Monitoreo}
 Tyco.
