@@ -50,17 +50,32 @@
 \contentsline {subsection}{\numberline {2.2.6}Tipos de cableado}{14}{subsection.2.2.6}
 \contentsline {section}{\numberline {2.3}Sistema de alarmas contra intrusi\IeC {\'o}n}{16}{section.2.3}
 \contentsline {subsection}{\numberline {2.3.1}Normativa}{16}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Dispositivos de detecci\IeC {\'o}n de intrusi\IeC {\'o}n}{16}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Dispositivos de notificaci\IeC {\'o}n de intrusi\IeC {\'o}n}{16}{subsection.2.3.3}
-\contentsline {subsection}{\numberline {2.3.4}Recomendaciones de dise\IeC {\~n}o seg\IeC {\'u}n CIEMI}{16}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.2}Dispositivos del sistema de intrusi\IeC {\'o}n}{16}{subsection.2.3.2}
+\contentsline {subsubsection}{Sensor de movimiento}{16}{section*.23}
+\contentsline {subsubsection}{Sensor de ruptura de cristal}{16}{section*.24}
+\contentsline {subsubsection}{Contacto magn\IeC {\'e}tico}{16}{section*.25}
+\contentsline {subsubsection}{Contacto magn\IeC {\'e}tico}{16}{section*.26}
+\contentsline {subsubsection}{Sirena}{16}{section*.27}
+\contentsline {subsubsection}{Panel de control}{16}{section*.28}
+\contentsline {subsection}{\numberline {2.3.3}Cableado}{16}{subsection.2.3.3}
 \contentsline {section}{\numberline {2.4}Sistema de control de acceso}{17}{section.2.4}
 \contentsline {subsection}{\numberline {2.4.1}Normativa}{17}{subsection.2.4.1}
 \contentsline {subsection}{\numberline {2.4.2}Dispositivos de control de acceso}{17}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}Recomendaciones de dise\IeC {\~n}o seg\IeC {\'u}n CIEMI}{17}{subsection.2.4.3}
+\contentsline {subsubsection}{Retenedor magn\IeC {\'e}tico}{17}{section*.29}
+\contentsline {subsubsection}{Lector de tarjetas}{17}{section*.30}
+\contentsline {subsubsection}{Panel de control}{17}{section*.31}
+\contentsline {subsection}{\numberline {2.4.3}Cableado}{17}{subsection.2.4.3}
 \contentsline {section}{\numberline {2.5}Sistema de CCTV IP}{18}{section.2.5}
 \contentsline {subsection}{\numberline {2.5.1}Normativa}{18}{subsection.2.5.1}
-\contentsline {subsection}{\numberline {2.5.2}Dispositivos de CCTV IP}{18}{subsection.2.5.2}
-\contentsline {subsection}{\numberline {2.5.3}Recomendaciones de dise\IeC {\~n}o seg\IeC {\'u}n TIA}{18}{subsection.2.5.3}
-\contentsline {appendix}{\chapternumberline {A}P\IeC {\'a}ginas de la 7 a la 25 de la norma INTE 31-08-06-2000}{19}{appendix.Alph1}
-\contentsline {appendix}{\chapternumberline {B}Otro ap\IeC {\'e}ndice de ejemplo}{39}{appendix.Alph2}
-\contentsline {chapter}{Bibliograf\'{\i }a}{41}{section*.24}
+\contentsline {subsection}{\numberline {2.5.2}C\IeC {\'a}maras de red IP }{18}{subsection.2.5.2}
+\contentsline {subsubsection}{C\IeC {\'a}maras tipo fijas}{18}{section*.32}
+\contentsline {subsubsection}{C\IeC {\'a}maras tipo domo fijo}{18}{section*.33}
+\contentsline {subsubsection}{C\IeC {\'a}maras tipo PTZ}{18}{section*.34}
+\contentsline {subsection}{\numberline {2.5.3}Cableado de red y accesorios}{19}{subsection.2.5.3}
+\contentsline {subsubsection}{Cableado horizontal}{19}{section*.35}
+\contentsline {subsubsection}{Patch cord}{19}{section*.36}
+\contentsline {subsubsection}{Patch panel}{19}{section*.37}
+\contentsline {subsubsection}{Recomendaciones de cableado en cobre seg\IeC {\'u}n TIA}{19}{section*.38}
+\contentsline {appendix}{\chapternumberline {A}P\IeC {\'a}ginas de la 7 a la 25 de la norma INTE 31-08-06-2000}{21}{appendix.Alph1}
+\contentsline {appendix}{\chapternumberline {B}Tabla 310.16 de la NFPA 70}{41}{appendix.Alph2}
+\contentsline {chapter}{Bibliograf\'{\i }a}{43}{section*.40}

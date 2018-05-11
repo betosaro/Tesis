@@ -639,11 +639,22 @@ También es importante mencionar que el cableado para aplicaciones tradicionales
 Actualmente no existe una normativa vigente para el diseño de este sistema. En la buena práctica se debe de cumplir con todas las especificaciones y recomendaciones que sugiera el fabricante.
 
 
-\subsection{Dispositivos de detección de intrusión}
+\subsection{Dispositivos del sistema de intrusión}
 
-\subsection{Dispositivos de notificación de intrusión}
+\subsubsection{Sensor de movimiento}
 
-\subsection{Recomendaciones de diseño según CIEMI}
+\subsubsection{Sensor de ruptura de cristal}
+
+\subsubsection{Contacto magnético}
+
+\subsubsection{Contacto magnético}
+
+\subsubsection{Sirena}
+
+\subsubsection{Panel de control}
+
+
+\subsection{Cableado}
 
 
 \newpage
@@ -658,7 +669,17 @@ Actualmente no existe una normativa vigente para el diseño de este sistema. En 
 
 \subsection{Dispositivos de control de acceso}
 
-\subsection{Recomendaciones de diseño según CIEMI}
+
+\subsubsection{Retenedor magnético}
+
+\subsubsection{Lector de tarjetas}
+
+\subsubsection{Panel de control}
+
+
+
+
+\subsection{Cableado}
 
 
 \newpage
@@ -671,30 +692,60 @@ Actualmente no existe una normativa vigente para el diseño de este sistema. En 
 Actualmente no existe una normativa vigente para el diseño de este sistema como tal, pero al ser un sistema IP conectado a una red de telecomunicaciones su instalación debe de regirse por la normativa TIA.
 
 
-\subsection{Dispositivos de CCTV IP}
+\subsection{Cámaras de red IP }
 
-\subsection{Recomendaciones de diseño según TIA}
 
-%6.4.1.4
-%Maximum lengths for copper cabling
-%Copper work area cables used in the context of multi-user telecommunications outlet assemblies and
-%open office furniture, shall meet the requirements of ANSI/TIA/EIA-568-B.2. Based upon insertion loss
-%considerations, the maximum length shall be determined according to:
-%C = (102 - H)/(1+D) (1)
-%W = C - T ≤ 22 m (72 ft) for 24 AWG UTP/ScTP or ≤ 17 m (56 ft) for 26 AWG ScTP (2)
-%Where:
-%C is the maximum combined length (m) of the work area cable, equipment cable, and patch cord.
-%H is the length (m) of the horizontal cable (H + C ≤ 100 m).
-%D is a de-rating factor for the patch cord type (0.2 for 24 AWG UTP/24 AWG ScTP and 0.5 for
-%26 AWG ScTP).
-%W is the maximum length (m) of the work area cable
-%T
-%is the total length of patch and equipment cords in the telecommunications room.
-%Table 6-1 applies the above formulae assuming that there is a total of 5 m (16 ft) of 24 AWG
-%UTP/24 AWG ScTP or 4 m (13 ft) of 26 AWG ScTP patch cords and equipment cables in the
-%telecommunications room. The multi-user telecommunications outlet assembly shall be marked with
-%the maximum allowable work area cable length. One method to accomplish this is to evaluate cable
-%length markings.
+Una cámara de red IP consiste en un dispositivo que permite la transmisión de audio y video a través de la red IP como una rede de área local (LAN). También permite el visionado en directo y/o la grabación ininterrumpidos, en periodos programados con antelación, bajo demanda o mediante su activación a causa de un evento particular (detección de movimiento por video, detección de audio, entre otros). \cite{Axis} \\
+
+El almacenamiento puede ser local o remoto mediante la red y cada uno de estos dispositivos cuenta con una dirección IP especifica a la cual se puede acceder fácilmente a través de un navegador web. Otra característica importante que puede incluir una cámara de red es la compatibilidad integrada con tecnologías de alimentación a través de Ethernet (PoE). \cite{Axis}
+
+
+\subsubsection{Cámaras tipo fijas}
+
+Una cámara de red fija consiste en un dispositivo que tiene una dirección de observación fija una vez montada. Puede estar equipada con objetivos de zoom motorizados, varifocales o fijos. Debido a su forma y tamaño físico son fácilmente apreciables, razón por la cual se utilizan en condiciones donde se desea que los usuarios del recinto noten que son observados.  \cite{Axis}
+
+
+
+\subsubsection{Cámaras tipo domo fijo}
+
+Una cámara de red domo fija es prácticamente una cámara fija en un diseño de domo. Al igual que la anterior puede disponer de objetivos de zoom motorizados, varifocales o fijos. La cámara puede orientarse a cualquier dirección. Debido su diseño discreto no intrusivo, es difícil observar a qué dirección está orientada la cámara. \cite{Axis}
+
+
+\subsubsection{Cámaras tipo PTZ}
+
+Una cámara PTZ ofrece funciones de movimiento horizontal, vertical y zoom (ya sea de forma manual o automática), teniendo una mayor área de cobertura y una imagen más detallada al utilizar el zoom. Los comandos PTZ son enviados a través del mismo cable de red que el utilizado en transmisión de vídeo y si las cámaras PTZ son compatibles con alimentación a través de Ethernet (PoE/PoE+/High PoE) tampoco requieren cables de alimentación independientes. \cite{Axis}
+
+
+
+\subsection{Cableado de red y accesorios}
+
+
+\subsubsection{Cableado horizontal}
+
+Es el cableado del sistema de telecomunicaciones que se extiende desde el conector de telecomunicaciones (RJ45, RJ11, LC, SC, entre otros) del área de trabajo hasta la conexión cruzada horizontal en el cuarto de red. (4.1) \cite{TIA}
+
+
+%TIA/EIA-568-B.1
+
+
+\subsubsection{Patch cord}
+
+Porción de cable con un enchufe en uno o ambos de sus extremos. (3.2) \cite{TIA}
+
+
+\subsubsection{Patch panel}
+
+Es el hardware de conexión que facilita la terminación del cable, la administración del cableado y sus conexiones. (3.2) \cite{TIA}
+
+
+
+\subsubsection{Recomendaciones de cableado en cobre según TIA}
+
+Por ningún motivo la suma de la longitud del cableado horizontal más la longitud de los patch cord deben superar los 100 metros. (6.4.1.4) \cite{TIA}\\
+
+Por lo cual, se recomienda que la longitud del cableado horizontal no supere los 90 metros y que tanto la longitud de los patch cord del puesto de trabajo como la longitud de los patch cord de conexión en el cuarto de red no supere los 5 metros cada uno.(4.3) \cite{TIA}
+
+
 
 
 

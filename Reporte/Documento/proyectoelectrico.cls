@@ -73,6 +73,7 @@
 
 % Bibliografía
 \RequirePackage{cite}
+%\renewcommand\citeform[1]{\textcolor{blue}{#1}}
 \RequirePackage{url}
 %\bibliographystyle{apalike_es}
 

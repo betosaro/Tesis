@@ -1,5 +1,11 @@
 \begin{thebibliography}{10}
 
+\bibitem{Axis}
+Axis comunications.
+\newblock {\em Guía técnica para vídeo en red. Tecnología y factores a
+  considerar a la hora de implementar correctamente aplicaciones de seguridad y
+  vigilancia y supervisión remota basadas en IP}, 2015.
+
 \bibitem{Bomberos}
 Benemérito~Cuerpo de~Bomberos~de Costa~Rica.
 \newblock {\em Manual de disposiciones técnicas generales sobre seguridad
@@ -34,6 +40,11 @@ Sylvania.
 \newblock Tecnologías.
 \newblock http://www.sylvania-americas.com/es/sylvania/tecnologias, 2016.
 \newblock Accedido 7-05-2018.
+
+\bibitem{TIA}
+TIA/EIA.
+\newblock {\em TIA/EIA-568-B.1 Commercial Building Telecommunications Cabling
+  Standard}, 2001.
 
 \bibitem{Monitoreo}
 Tyco.
