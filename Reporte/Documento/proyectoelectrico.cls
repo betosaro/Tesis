@@ -298,10 +298,10 @@
 	\vskip 0.5em
 	\noindent{\itshape {\bfseries Keywords}: #2.} 
     \vfill
-	\noindent\hrulefill \\
-	{\footnotesize\textbf{About \PE\ (``Electrical Project'')} \\ 
-	 The ``Electrical Project'' is a course of supervised individual work of one semester, with the purpose of applying design and analysis strategies to a problem in an open topic in electrical engineering. It is a requisite of graduation for the Bachelor of Science in Electrical Engineering, granted by the University of Costa Rica.
-	}
+	%\noindent\hrulefill \\
+%	{\footnotesize\textbf{About \PE\ (``Electrical Project'')} \\ 
+%	 The ``Electrical Project'' is a course of supervised individual work of one semester, with the purpose of applying design and analysis strategies to a problem in an open topic in electrical engineering. It is a requisite of graduation for the Bachelor of Science in Electrical Engineering, granted by the University of Costa Rica.
+%	}
 	\cleardoublepage
 }
 

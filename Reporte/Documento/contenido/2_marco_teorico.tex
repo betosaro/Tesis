@@ -8,7 +8,7 @@
 
 \subsection{Normativa}
 
-La normativa que se debe seguir para el diseño de sistemas de iluminación según el articulo 1 del decreto No 36979-MEIC es la normativa NFPA 70. \cite{CIEMI}
+La normativa que se debe seguir para el diseño de sistemas de iluminación según el articulo 1 del decreto No 36979-MEIC es la normativa NFPA 70. \cite{MEIC}
 
 
 
@@ -630,6 +630,22 @@ También es importante mencionar que el cableado para aplicaciones tradicionales
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 \newpage
 
 \section{Sistema de alarmas contra intrusión}
@@ -638,23 +654,58 @@ También es importante mencionar que el cableado para aplicaciones tradicionales
 
 Actualmente no existe una normativa vigente para el diseño de este sistema. En la buena práctica se debe de cumplir con todas las especificaciones y recomendaciones que sugiera el fabricante.
 
-
 \subsection{Dispositivos del sistema de intrusión}
+
+Son elementos que se instalan en habitaciones, recintos y cuartos de control con el fin de evitar el hurto de objetos valiosos dentro de la edificación.
 
 \subsubsection{Sensor de movimiento}
 
+Es un dispositivo que detecta el movimiento de un ser humano en una habitación o recinto por medio del rechazo de ondas infrarrojas (PIR) o bien infrarrojas y microondas (DUAL). Por la naturaleza del detector este debe ser calibrado, es decir ajustada su sensibilidad para evitar falsas alarmas, ya que son sensibles a ciertas condiciones de luz, temperatura y humedad.El rengo de visión puede ser de 180° o 360° y el alcance depende del modelo y  fabricante (entre 15 a 60 metros). \cite{Movimiento}
+
 \subsubsection{Sensor de ruptura de cristal}
 
-\subsubsection{Contacto magnético}
+Es un dispositivo que detecta el sonido que hace un cristal cuando se rompe (frecuencia de resonancia del crista) por medio de un micrófono. Dicho dispositivo debe colocarse en la cercanía del cristal que se quiere monitorear (la distancia mínima y máxima depende del modelo y fabricante). \cite{Cristal}  
 
-\subsubsection{Contacto magnético}
+\subsubsection{Contactos magnéticos}
+
+Son los dispositivo de control de apertura o cierre de puertas y ventanas. Envían una señal al panel cuando la conexión magnética entre sus dos placas se pierde. Se ubican generalmente en algún punto de apertura de puertas y ventanas. \cite{CIEMI}
+
+\subsubsection{Teclado}
+
+Es un dispositivo de control utilizado para activar o desactivar la alarma por medio de un código numérico. Generalmente cuentan con una pantalla que presenta información al usuario del sistema. \cite{Teclado}
+
 
 \subsubsection{Sirena}
 
+Es un dispositivo de notificación audible. Generalmente se instala en un lugar alto y abierto. La potencia de la sirena depende del modelo y el fabricante (entre 95dB y 120dB a 3 pies de distancia). \cite{Sirena}
+
+
 \subsubsection{Panel de control}
+
+Es un elemento donde están conectados todos los dispositivos del sistema de alarmas contra intrusión. Es quien se encarga de suplir la potencia a los dispositivos (se instala en conjunto con una fuente de poder y baterías) y el control lógico de los mismos. Sus principales funciones son: \cite{Robo}
+
+\begin{enumerate}
+	
+	\item Recepción de la señal de intrusión.
+	
+	\item Registro de la zona, causa, fecha y hora de la intrusión.
+	
+	\item Transmisión de la señal de notificación a la sirena.
+	
+\end{enumerate}
+
+La capacidad del panel depende de la cantidad de dispositivos conectados. En ocasiones se requiere una fuente de poder adicional. 
 
 
 \subsection{Cableado}
+
+El cableado de este sistema es tipo punto a punto, desde cada dispositivo hasta el panel de control. El tipo de cable a utilizar depende de los dispositivos, pero generalmente se utiliza 4x22 AWG con pantalla (dos lineas para alimentación y dos para datos). \cite{Teclado}
+
+
+
+
+
+
 
 
 \newpage
@@ -669,17 +720,101 @@ Actualmente no existe una normativa vigente para el diseño de este sistema. En 
 
 \subsection{Dispositivos de control de acceso}
 
+Son elementos que se instalan en puertas y cuartos de control con el fin de controlar el acceso de únicamente personal autorizado a zonas catalogadas como de acceso restringido.
 
-\subsubsection{Retenedor magnético}
+\subsubsection{Cerradura electromagnética}
+
+Es un dispositivo de retención utilizado para mantener cerrada la puerta en caso de que esta sea la entrada directa a un espacio restringido. La fuerza de retención de la cerradura depende del fabricante y modelo a instalar, pero por lo general el rango va de 80 lbs a 1500 lbs. La elección de la dicha fuerza dependerá de la aplicación, dimensiones y peso de la puerta. Por lo general su ubicación es en la parte superior de la puerta. \cite{CIEMI} \cite{Secolarm}
+
 
 \subsubsection{Lector de tarjetas}
 
+Es un dispositivo de solicitud de acceso en el cual el personal que desea ingresar a la zona restringida coloca una tarjeta (la cual contiene la información del usuario) en la lectora y esta transmite la información de dicha tarjeta al panel de control. El tipo de lectora dependerá del tipo de tarjeta (código de barras, tira magnética, wiegand o de proximidad). Dicho dispositivo se coloca por el lado no seguro de la puerta. \cite{CIEMI}
+
+
+\subsubsection{Botón de salida}
+
+Es un dispositivo de solicitud de salida tipo contacto seco en el cual el personal que se encuentra dentro de la zona restringida presiona un botón dejando pasar una señal de salida hacia el panel de control. Las dimensiones del botón dependerán de la aplicación. Dicho dispositivo se coloca por el lado seguro de la puerta. \cite{CIEMI}
+
+\subsubsection{Contactos magnéticos}
+
+Son los dispositivo de control de apertura o cierre de puerta. Envían una señal al panel cuando la conexión magnética entre sus dos placas se pierde (pueden ser NA o NC). Se ubican generalmente en la parte superior de la puerta. Por lo general para aplicaciones de control de acceso dichos contactos vienen integrados en la cerradura electromagnética. \cite{CIEMI}
+
+\newpage
 \subsubsection{Panel de control}
 
+Es un elemento donde están conectados todos los dispositivos del sistema de control de acceso. Es quien se encarga de suplir el control lógico de los mismos (la potencia de los dispositivos por lo general es suplida por una fuente de poder adicional). Sus principales funciones son: \cite{CIEMI}
 
+\begin{itemize}
+	
+	\item \textbf{Al solicitar ingreso:}
+
+
+\begin{enumerate}
+	
+	\item Recibir los datos enviados por la lectora de tarjetas.
+	
+	\item Comparar dichos datos con la base de datos del personal autorizado para ingresar a la zona.
+	
+	\item Registrar la fecha y hora de ingreso del personal.
+	
+	\item Enviar la señal de confirmación a la lectora de tarjetas.
+	
+	\item Enviar la señal de apertura a la cerradura electromagnética.
+	
+	\item Recibir la señal de cierre de los contactos magnéticos.
+	
+	\item Enviar la señal de cierre de la cerradura electromagnética.
+	
+	
+\end{enumerate}
+
+
+	\item \textbf{Al solicitar salida:}
+
+\begin{enumerate}
+	
+	\item Recibir la señal de salida.
+	
+	\item Enviar la señal de apertura a la cerradura electromagnética.
+	
+	\item Recibir la señal de cierre de los contactos magnéticos.
+	
+	\item Enviar la señal de cierre de la cerradura electromagnética.
+		
+\end{enumerate}
+
+
+\end{itemize}
+
+
+La capacidad del panel dependerá de la cantidad de lectoras a instalar.
 
 
 \subsection{Cableado}
+
+
+El cableado de este sistema es tipo punto a punto, desde cada dispositivo hasta el panel de control. El tipo de cable depende del dispositivo a instalar. En el cuadro \ref{CableAcceso}, se puede observar una configuración común. \cite{CIEMI}
+
+\begin{table*}[h]
+	\caption{Configuración general de cableado de control de acceso.}
+	\label{CableAcceso}
+	\begin{center}
+		\begin{tabular}{|c|c|}
+			\hline 
+			\textbf{Dispositivo} & \textbf{Cable a utilizar}\\ 
+			\hline 
+			Cerradura electromagnética & 2x18 AWG con pantalla \\ 
+			\hline 
+			Botón de salida & 2x18 AWG con pantalla \\ 
+			\hline 
+			Contactos magnéticos & 2x18 AWG con pantalla \\ 
+			\hline 
+			Lectora de tarjetas & 6x22 AWG con pantalla \\ 
+			\hline 
+		\end{tabular} 
+	\end{center}
+\end{table*}
 
 
 \newpage
@@ -722,10 +857,9 @@ Una cámara PTZ ofrece funciones de movimiento horizontal, vertical y zoom (ya s
 
 \subsubsection{Cableado horizontal}
 
-Es el cableado del sistema de telecomunicaciones que se extiende desde el conector de telecomunicaciones (RJ45, RJ11, LC, SC, entre otros) del área de trabajo hasta la conexión cruzada horizontal en el cuarto de red. (4.1) \cite{TIA}
+Es el cableado del sistema de telecomunicaciones que se extiende desde el conector de telecomunicaciones (RJ45, RJ11, LC, SC, entre otros) del área de trabajo hasta la conexión cruzada horizontal en el cuarto de red. (4.1) \cite{TIA}\\
 
-
-%TIA/EIA-568-B.1
+El cableado para CCTV IP es tipo punto a punto, desde cada cámara gasta el punto de conexión en cuarto de TI.
 
 
 \subsubsection{Patch cord}
@@ -743,7 +877,12 @@ Es el hardware de conexión que facilita la terminación del cable, la administr
 
 Por ningún motivo la suma de la longitud del cableado horizontal más la longitud de los patch cord deben superar los 100 metros. (6.4.1.4) \cite{TIA}\\
 
-Por lo cual, se recomienda que la longitud del cableado horizontal no supere los 90 metros y que tanto la longitud de los patch cord del puesto de trabajo como la longitud de los patch cord de conexión en el cuarto de red no supere los 5 metros cada uno.(4.3) \cite{TIA}
+Por lo cual, se recomienda que la longitud del cableado horizontal no supere los 90 metros y que tanto la longitud de los patch cord del puesto de trabajo como la longitud de los patch cord de conexión en el cuarto de red no supere los 5 metros cada uno.(4.3) \cite{TIA}\\
+
+La categoría del cable UTP depende de la velocidad de transmisión de video por red.
+
+
+
 
 
 

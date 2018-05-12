@@ -16,12 +16,34 @@ DIAL.
 \newblock Lighting design software dialux.
 \newblock https://www.dial.de/en/dialux/, 2018.
 
+\bibitem{Cristal}
+Honeywell~International Inc.
+\newblock {\em FG-730 Glassbreak Detector}, 2007.
+
+\bibitem{Movimiento}
+Honeywell~International Inc.
+\newblock {\em Detector de Movimiento DUAL TEC Serie DT-900 Información
+  Adicional}, 2008.
+
+\bibitem{Teclado}
+Honeywell~International Inc.
+\newblock {\em 6149EX. Fixed-English Display Keypad}, 2009.
+
+\bibitem{Robo}
+Honeywell~International Inc.
+\newblock {\em VISTA-128BPT. Partitioned Commercial Burglary Alarm Control
+  Panels}, 2011.
+
+\bibitem{Sirena}
+Honeywell~International Inc.
+\newblock {\em Sirens, Speakers, Bells \& Strobes}, 2013.
+
 \bibitem{Inteco}
 Inteco.
 \newblock {\em Niveles y condiciones de iluminación que deben tener los
   centros de trabajo}, 2000.
 
-\bibitem{CIEMI}
+\bibitem{MEIC}
 MEIC.
 \newblock Rtcr 458:2011 reglamento de oficialización del código eléctrico de
   costa rica para la seguridad de la vida y de la propiedad, 2012.
@@ -34,6 +56,10 @@ NFPA.
 \bibitem{NFPA72}
 NFPA.
 \newblock {\em NFPA 72 National Fire Alarm and Signaling Code}, 2010.
+
+\bibitem{Secolarm}
+Seco-larm.
+\newblock {\em Catálogo condensado}, 2018.
 
 \bibitem{Syl}
 Sylvania.
@@ -58,5 +84,10 @@ Tyco.
 \bibitem{Rele}
 Tyco.
 \newblock {\em IDNet Communicating Devices Model 4090-9002 Relay IAM}, 2014.
+
+\bibitem{CIEMI}
+Juan~José Ugalde.
+\newblock {\em Diseño e Inspección de Sistemas de Alarma de Incendio y
+  Control de Acceso}, 2016.
 
 \end{thebibliography}

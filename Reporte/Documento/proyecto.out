@@ -1,45 +1,47 @@
 \BOOKMARK [1][-]{portada.1}{Portada}{}% 1
 \BOOKMARK [1][-]{firmas.1}{Firmas}{}% 2
 \BOOKMARK [1][-]{resumen.1}{Resumen}{}% 3
-\BOOKMARK [0][-]{section*.1}{\315ndice general}{}% 4
-\BOOKMARK [0][-]{chapter.1}{Introducci\363n}{}% 5
-\BOOKMARK [1][-]{section.1.1}{Alcance del proyecto}{chapter.1}% 6
-\BOOKMARK [1][-]{section.1.2}{Objetivos}{chapter.1}% 7
-\BOOKMARK [2][-]{subsection.1.2.1}{Objetivo general}{section.1.2}% 8
-\BOOKMARK [2][-]{subsection.1.2.2}{Objetivos espec\355ficos}{section.1.2}% 9
-\BOOKMARK [1][-]{section.1.3}{Metodolog\355a}{chapter.1}% 10
-\BOOKMARK [0][-]{chapter.2}{Marco Te\363rico}{}% 11
-\BOOKMARK [1][-]{section.2.1}{Sistema de iluminaci\363n}{chapter.2}% 12
-\BOOKMARK [2][-]{subsection.2.1.1}{Normativa}{section.2.1}% 13
-\BOOKMARK [2][-]{subsection.2.1.2}{Estudio de iluminaci\363n}{section.2.1}% 14
-\BOOKMARK [2][-]{subsection.2.1.3}{Tecnolog\355as de iluminaci\363n}{section.2.1}% 15
-\BOOKMARK [2][-]{subsection.2.1.4}{Carga continua}{section.2.1}% 16
-\BOOKMARK [2][-]{subsection.2.1.5}{Carga no continua}{section.2.1}% 17
-\BOOKMARK [2][-]{subsection.2.1.6}{Circuito ramal}{section.2.1}% 18
-\BOOKMARK [2][-]{subsection.2.1.7}{Interruptor autom\341tico}{section.2.1}% 19
-\BOOKMARK [2][-]{subsection.2.1.8}{Interruptor autom\341tico contra falla a tierra \(GFCI\)}{section.2.1}% 20
-\BOOKMARK [2][-]{subsection.2.1.9}{Interruptor autom\341tico contra falla de arco \(AFCI\)}{section.2.1}% 21
-\BOOKMARK [2][-]{subsection.2.1.10}{C\341lculo protecciones en circuitos ramales}{section.2.1}% 22
-\BOOKMARK [2][-]{subsection.2.1.11}{C\341lculo del calibre de cable en circuitos ramales}{section.2.1}% 23
-\BOOKMARK [1][-]{section.2.2}{Sistema de alarmas contra incendio}{chapter.2}% 24
-\BOOKMARK [2][-]{subsection.2.2.1}{Normativa}{section.2.2}% 25
-\BOOKMARK [2][-]{subsection.2.2.2}{Tipos de fuego}{section.2.2}% 26
-\BOOKMARK [2][-]{subsection.2.2.3}{Dispositivos de iniciaci\363n \363 detecci\363n de incendio}{section.2.2}% 27
-\BOOKMARK [2][-]{subsection.2.2.4}{Dispositivos de notificaci\363n de incendio}{section.2.2}% 28
-\BOOKMARK [2][-]{subsection.2.2.5}{Dispositivos de control}{section.2.2}% 29
-\BOOKMARK [2][-]{subsection.2.2.6}{Tipos de cableado}{section.2.2}% 30
-\BOOKMARK [1][-]{section.2.3}{Sistema de alarmas contra intrusi\363n}{chapter.2}% 31
-\BOOKMARK [2][-]{subsection.2.3.1}{Normativa}{section.2.3}% 32
-\BOOKMARK [2][-]{subsection.2.3.2}{Dispositivos del sistema de intrusi\363n}{section.2.3}% 33
-\BOOKMARK [2][-]{subsection.2.3.3}{Cableado}{section.2.3}% 34
-\BOOKMARK [1][-]{section.2.4}{Sistema de control de acceso}{chapter.2}% 35
-\BOOKMARK [2][-]{subsection.2.4.1}{Normativa}{section.2.4}% 36
-\BOOKMARK [2][-]{subsection.2.4.2}{Dispositivos de control de acceso}{section.2.4}% 37
-\BOOKMARK [2][-]{subsection.2.4.3}{Cableado}{section.2.4}% 38
-\BOOKMARK [1][-]{section.2.5}{Sistema de CCTV IP}{chapter.2}% 39
-\BOOKMARK [2][-]{subsection.2.5.1}{Normativa}{section.2.5}% 40
-\BOOKMARK [2][-]{subsection.2.5.2}{C\341maras de red IP }{section.2.5}% 41
-\BOOKMARK [2][-]{subsection.2.5.3}{Cableado de red y accesorios}{section.2.5}% 42
-\BOOKMARK [0][-]{appendix.Alph1}{P\341ginas de la 7 a la 25 de la norma INTE 31-08-06-2000}{}% 43
-\BOOKMARK [0][-]{appendix.Alph2}{Tabla 310.16 de la NFPA 70}{}% 44
-\BOOKMARK [0][-]{section*.40}{Bibliograf\355a}{}% 45
+\BOOKMARK [1][-]{abstract.1}{Abstract}{}% 4
+\BOOKMARK [0][-]{section*.1}{\315ndice general}{}% 5
+\BOOKMARK [0][-]{section*.2}{\315ndice de cuadros}{}% 6
+\BOOKMARK [0][-]{chapter.1}{Introducci\363n}{}% 7
+\BOOKMARK [1][-]{section.1.1}{Alcance del proyecto}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.2}{Objetivos}{chapter.1}% 9
+\BOOKMARK [2][-]{subsection.1.2.1}{Objetivo general}{section.1.2}% 10
+\BOOKMARK [2][-]{subsection.1.2.2}{Objetivos espec\355ficos}{section.1.2}% 11
+\BOOKMARK [1][-]{section.1.3}{Metodolog\355a}{chapter.1}% 12
+\BOOKMARK [0][-]{chapter.2}{Marco Te\363rico}{}% 13
+\BOOKMARK [1][-]{section.2.1}{Sistema de iluminaci\363n}{chapter.2}% 14
+\BOOKMARK [2][-]{subsection.2.1.1}{Normativa}{section.2.1}% 15
+\BOOKMARK [2][-]{subsection.2.1.2}{Estudio de iluminaci\363n}{section.2.1}% 16
+\BOOKMARK [2][-]{subsection.2.1.3}{Tecnolog\355as de iluminaci\363n}{section.2.1}% 17
+\BOOKMARK [2][-]{subsection.2.1.4}{Carga continua}{section.2.1}% 18
+\BOOKMARK [2][-]{subsection.2.1.5}{Carga no continua}{section.2.1}% 19
+\BOOKMARK [2][-]{subsection.2.1.6}{Circuito ramal}{section.2.1}% 20
+\BOOKMARK [2][-]{subsection.2.1.7}{Interruptor autom\341tico}{section.2.1}% 21
+\BOOKMARK [2][-]{subsection.2.1.8}{Interruptor autom\341tico contra falla a tierra \(GFCI\)}{section.2.1}% 22
+\BOOKMARK [2][-]{subsection.2.1.9}{Interruptor autom\341tico contra falla de arco \(AFCI\)}{section.2.1}% 23
+\BOOKMARK [2][-]{subsection.2.1.10}{C\341lculo protecciones en circuitos ramales}{section.2.1}% 24
+\BOOKMARK [2][-]{subsection.2.1.11}{C\341lculo del calibre de cable en circuitos ramales}{section.2.1}% 25
+\BOOKMARK [1][-]{section.2.2}{Sistema de alarmas contra incendio}{chapter.2}% 26
+\BOOKMARK [2][-]{subsection.2.2.1}{Normativa}{section.2.2}% 27
+\BOOKMARK [2][-]{subsection.2.2.2}{Tipos de fuego}{section.2.2}% 28
+\BOOKMARK [2][-]{subsection.2.2.3}{Dispositivos de iniciaci\363n \363 detecci\363n de incendio}{section.2.2}% 29
+\BOOKMARK [2][-]{subsection.2.2.4}{Dispositivos de notificaci\363n de incendio}{section.2.2}% 30
+\BOOKMARK [2][-]{subsection.2.2.5}{Dispositivos de control}{section.2.2}% 31
+\BOOKMARK [2][-]{subsection.2.2.6}{Tipos de cableado}{section.2.2}% 32
+\BOOKMARK [1][-]{section.2.3}{Sistema de alarmas contra intrusi\363n}{chapter.2}% 33
+\BOOKMARK [2][-]{subsection.2.3.1}{Normativa}{section.2.3}% 34
+\BOOKMARK [2][-]{subsection.2.3.2}{Dispositivos del sistema de intrusi\363n}{section.2.3}% 35
+\BOOKMARK [2][-]{subsection.2.3.3}{Cableado}{section.2.3}% 36
+\BOOKMARK [1][-]{section.2.4}{Sistema de control de acceso}{chapter.2}% 37
+\BOOKMARK [2][-]{subsection.2.4.1}{Normativa}{section.2.4}% 38
+\BOOKMARK [2][-]{subsection.2.4.2}{Dispositivos de control de acceso}{section.2.4}% 39
+\BOOKMARK [2][-]{subsection.2.4.3}{Cableado}{section.2.4}% 40
+\BOOKMARK [1][-]{section.2.5}{Sistema de CCTV IP}{chapter.2}% 41
+\BOOKMARK [2][-]{subsection.2.5.1}{Normativa}{section.2.5}% 42
+\BOOKMARK [2][-]{subsection.2.5.2}{C\341maras de red IP }{section.2.5}% 43
+\BOOKMARK [2][-]{subsection.2.5.3}{Cableado de red y accesorios}{section.2.5}% 44
+\BOOKMARK [0][-]{appendix.Alph1}{P\341ginas de la 7 a la 25 de la norma INTE 31-08-06-2000}{}% 45
+\BOOKMARK [0][-]{appendix.Alph2}{Tabla 310.16 de la NFPA 70}{}% 46
+\BOOKMARK [0][-]{section*.44}{Bibliograf\355a}{}% 47
